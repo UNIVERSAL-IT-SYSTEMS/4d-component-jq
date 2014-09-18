@@ -1,7 +1,7 @@
 4d-component-jq
 ===============
 
-A 4D v14 implementation of the ./jq program.
+A 4D v14 implementation of the [jq](http://stedolan.github.io/jq/) program.
 
 Calls the program appropriate for platform via LAUNCH EXTERNAL PROCESS.
 
